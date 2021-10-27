@@ -1,5 +1,9 @@
 ### Hi, my name is Bruno Leonardo, i'm just a computer student, tech and finance lover 👋
 
+<div align="center">
+<img style="width:40%;height:0;padding-bottom:56%;position:relative;" src="https://media0.giphy.com/media/euAnOkLGWtdHG/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen >
+</div>
+
 - 🔭 I am currently working as a development analyst
 - 🌱 I'm learning about Front-end development
 - 💡  Knowlegde is free
