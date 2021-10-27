@@ -38,6 +38,8 @@
  
   ![Snake animation](https://github.com/brunoleocam/brunoleocam/blob/output/github-contribution-grid-snake.svg)
  
+ <img alt="Bruno-With-Markdown" height="10" width="90" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?&layout=compact&langs_count=7&theme=gotham"/></a>
+
 </div>
 
 <!--
