@@ -8,12 +8,6 @@
 - 🌱 I'm learning about Front-end development
 - 💡  Knowlegde is free
 - 😄 Pronouns: He/His
-
-<div align="center">
-  <a href="https://github.com/brunoleocam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoleocam&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoleocam&layout=compact&langs_count=7&theme=gotham"/> 
-</div>
   
 ##
 
