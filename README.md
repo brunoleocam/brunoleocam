@@ -1,4 +1,4 @@
-### Hi, my name is Bruno Leonardo, i'm a software engineer by training, tech and finance lover 👋
+### Hi, my name is Bruno Leonardo and i've eight years of experience in the IT field. Software engineer by training, tech and finance lover 👋
 
 <div align="center">
 <img style="width:40%;height:0;padding-bottom:56%;position:relative;" src="https://media0.giphy.com/media/euAnOkLGWtdHG/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen >
