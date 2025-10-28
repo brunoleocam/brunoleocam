@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunoleocam.brunoleocam&" />
-</div>
-
-###
-
-<p align="left">
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunoleocam.brunoleocam" alt="visitors" />
   <a href="README.pt.md">
     <img src="https://img.shields.io/badge/README-PT--BR-blue" alt="Português 🇧🇷" />
   </a>
-</p>
+</div>
+
 
 ###
 
