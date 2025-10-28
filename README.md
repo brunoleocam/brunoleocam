@@ -5,7 +5,6 @@
   </a>
 </div>
 
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -72,16 +71,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoleocam&show_icons=true&theme=transparent" alt="Bruno's GitHub stats" />
-</div>
-
-###
-
 <h2 align="left">📩 Contact me</h2>
 
 ###
@@ -96,7 +85,7 @@
   <a href="mailto:brunoleocam@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="https://wa.me/+5543996522752" target="_blank">
+  <a href="https://wa.me/5543996522752" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
   </a>
   <a href="https://www.hackerrank.com/profile/brunoleocam" target="_blank">
@@ -106,3 +95,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
+
